@@ -1,5 +1,5 @@
 
-# Connecting Four - Game
+# Connecting Four - Console_Game
 
 Just Run the code and enjoy :) !
 The default board game SIZE is 6x7.
